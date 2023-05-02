@@ -2,11 +2,6 @@
 This is the repo for the codebase that calculates the metrics.
 Note that the data was included as part of the repo for transparency. Since it contains a lot of small files, cloning the repo may take time.
 
-The notebooks use google collab. They are available here:
-
-https://drive.google.com/drive/folders/1MLTD3snoDoQ0BCxasYWyGUopzqw6dSBf?usp=sharing
-
-To run notebooks(only trains models, does not calculate metrics) add the collab folder as shortcut in google drive so that that collab can read the data.
 
 # Installation requirements
 Gumtree jar is provided in the repository. It must be linked to run the project.
