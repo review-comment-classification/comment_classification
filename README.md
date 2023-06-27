@@ -1,10 +1,12 @@
 This is the replication package for code review comment classification work.
 
-dataset folder contains code_attributes.csv and labeled_dataset.csv file. 
+dataset folder contains code_attributes.csv, labeled_dataset.csv and codes.pkl file. 
 
 code_attributes.csv file contains the values for calculated code attributes. 
 
-labeled_dataset.csv file contains the manually labeled dataset of code review comments from the OpenDev Nova project.
+labeled_dataset.xlsx file contains the manually labeled dataset of code review comments from the OpenDev Nova project.
+
+codes.pkl file is required to run the main modeling code.
 
 
 
